@@ -111,6 +111,6 @@ It is easy to build and suitable for real-life applications.
 This project shows how Arduino can be used to create smart solutions for daily life problems. 
 
 ## 📄 Project Report (PDF)
-[📄 Download PDF](docs/touchless water tap sysystem.zip)
+[📄 Download PDF](docs/touchless water tap sysytem.zip)
 
 BY:- ABHINANDAN RAJ
