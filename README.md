@@ -25,7 +25,7 @@ It helps in saving water and improves hygiene.
 5. When hand is removed, water stops.
 
 ## 📂 Project Files
-- Source Code: `Touchless water system/`
+- Source Code: `touchless water system.ino`
 - Documentation PDF: [📄 Download PDF](Touchless_Water_Tap.pdf)
 
 ## 📸 Project Demo
